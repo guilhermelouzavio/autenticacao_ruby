@@ -1,0 +1,11 @@
+ => no terminal => rails new auth
+
+rails s (para abrir o servidor)
+
+rails -p --port==3000
+
+roda o rails s dinovo e ai consegui abrir o localhost
+
+para instalar gem 
+
+pelo terminal "bundle install" 
